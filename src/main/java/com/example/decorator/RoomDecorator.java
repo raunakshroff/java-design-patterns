@@ -1,4 +1,4 @@
-package com.example;
+package com.example.decorator;
 
 public abstract class RoomDecorator implements Room {
 
