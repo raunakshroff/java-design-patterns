@@ -1,4 +1,4 @@
-package com.example;
+package com.example.flyweight;
 
 public class Flower {
 
