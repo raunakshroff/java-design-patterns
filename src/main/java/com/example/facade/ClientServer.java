@@ -1,4 +1,4 @@
-package com.example;
+package com.example.facade;
 
 public class ClientServer {
 
