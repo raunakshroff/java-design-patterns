@@ -1,4 +1,4 @@
-package com.example;
+package com.example.proxy;
 
 public class MovieMediaPlayer implements MediaPlayer {
 
