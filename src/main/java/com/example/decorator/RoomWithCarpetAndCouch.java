@@ -1,4 +1,4 @@
-package com.example;
+package com.example.decorator;
 
 public class RoomWithCarpetAndCouch extends RoomDecorator {
 
