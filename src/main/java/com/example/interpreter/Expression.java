@@ -1,4 +1,4 @@
-package com.example;
+package com.example.interpreter;
 
 public interface Expression {
 
