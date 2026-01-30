@@ -2,7 +2,7 @@ package com.example.command;
 
 public class SwitchOnLightOperation implements SwitchOperation {
   
-  private Light light;
+  private final Light light;
 
   public SwitchOnLightOperation(Light light) {
       this.light = light;
